@@ -278,7 +278,7 @@ img{border:none;}
 .visual .panel{
     width:400%;
     height: 360px;
-    margin-left: -100%;
+/*    margin-left: -100%;*/
 }
 
 .visual .panel li{
